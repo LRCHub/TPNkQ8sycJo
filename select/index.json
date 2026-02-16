@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "魂のブラザー",
+  "base_artist": "Masayuki Suzuki",
+  "createdAt": "2026-02-16T03:08:00.015729Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "魂のブラザー",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/01_魂のブラザー_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "魂のブラザー",
+      "artist": "鈴木雅之",
+      "has_synced": true,
+      "path": "select/02_魂のブラザー_鈴木雅之.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "魂のブラザー",
+      "artist": "鈴木 雅之",
+      "has_synced": true,
+      "path": "select/03_魂のブラザー_鈴木_雅之.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "魂のブラザー",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_01_魂のブラザー_鈴木_雅之.txt"
+    }
+  ]
+}
